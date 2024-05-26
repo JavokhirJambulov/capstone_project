@@ -1,0 +1,4 @@
+ERROR: THESE PACKAGES DO NOT MATCH THE HASHES FROM THE REQUIREMENTS FILE. If you have updated the package versions, please update the hashes. Otherwise, examine the package contents carefully; someone may have tampered with them.
+    face-recognition-models>=0.3.0 from https://www.piwheels.org/simple/face-recognition-models/face_recognition_models-0.3.0-py2.py3-none-any.whl#sha256=8d6b0af2e37a17120c3f13107974bc252142a4ffcb4e58eabdfcf26608e52c24 (from face_recognition):
+        Expected sha256 8d6b0af2e37a17120c3f13107974bc252142a4ffcb4e58eabdfcf26608e52c24
+             Got        f42b32e8e0c0a098a9e3fd0f6a4838070e0394865b5b4e11959d5f02cd39cbe1
